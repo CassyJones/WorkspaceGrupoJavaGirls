@@ -8,6 +8,6 @@ git status => mostra o status do arquivo no repositório online
 
 git add . (ou nome do arquivo) => adiciona o(s) arquivo(s) a um pacote.
 
-git commit -m "comentário"=> prepara o arquivo para ser enviado.
+git commit -m "comentário" => prepara o arquivo para ser enviado.
 
 git push => envia o pacote para o repositório
