@@ -1,3 +1,13 @@
 Comando para clonar repositório
 
 git clone "endereço do repositório"
+
+Comando para adicionar arquivo
+
+git status => mostra o status do arquivo no repositório online
+
+git add . (ou nome do arquivo) => adiciona o(s) arquivo(s) a um pacote.
+
+git commit => prepara o arquivo para ser enviado.
+
+git push => envia o pacote para o repositório
